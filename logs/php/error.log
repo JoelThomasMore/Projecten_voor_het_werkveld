@@ -1,0 +1,1 @@
+[25-Feb-2023 10:52:59 UTC] Cron hergeplanning event fout voor hook: wp_update_user_counts, foutcode: could_not_set, foutmelding: De lijst met cron gebeurtenissen kon niet worden opgeslagen., gegevens: {"schedule":"twicedaily","args":[],"interval":43200}
